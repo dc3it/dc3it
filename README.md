@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @dc3it
 - 👀 I’m interested in HTML, CSS, and JavaScript
-- 🌱 I’m currently learning tensorflowjs
+- 🌱 I’m currently learning AI in the browser
 - 💞️ I’m looking to collaborate on NLP
-- 📫 How to reach me dc3it@yahoo.com
+- 📫 How to reach me dc3it (at) yahoo.com
+- 📄 my blog - dc3it (dot) wordpress (dot) com
+- 🍿 my youtube channel @dc3itlearn
+- 🏷️ my redbubble shop - DBAAH
 
 <!---
 dc3it/dc3it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
