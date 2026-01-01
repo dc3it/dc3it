@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on NLP
 - 📫 How to reach me dc3it (at) yahoo.com
 - 📄 my blog - dc3it (dot) wordpress (dot) com
-- 🍿 my youtube channel @dc3itlearn
+- 🍿 my youtube channel @dc3itlearn471
 - 🏷️ my redbubble shop - DBAAH
 
 <!---
